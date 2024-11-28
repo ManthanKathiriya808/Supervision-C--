@@ -7,4 +7,4 @@
 
 # Question-2
 
-<img src = "IMG1.png">
+<img src = "IMG2.png">
